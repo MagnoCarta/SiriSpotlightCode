@@ -1,0 +1,5 @@
+{
+  "task": ["todo", "reminder", "item"],
+  "complete": ["finish", "mark done", "tick off"]
+}
+
